@@ -1,0 +1,8 @@
+# Large data files
+data/processed/*.qza
+data/raw/*.fastq.gz
+data/raw/*/*.fastq.gz
+*.tar.gz
+
+# System files
+.DS_Store
